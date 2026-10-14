@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AmThucDungTien">
+
+        <activity
+            android:name=".member1_auth_home.SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AmThucDungTien">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".member1_auth_home.AuthActivity" />
+        <activity android:name=".member1_auth_home.MainActivity" />
+        <activity android:name=".member2_catalog.CategoryDishesActivity" />
+        <activity android:name=".member3_search_detail.SearchActivity" />
+        <activity android:name=".member3_search_detail.FilterActivity" />
+        <activity android:name=".member3_search_detail.DishDetailActivity" />
+        <activity android:name=".member4_cooking_saved.CookingGuideActivity" />
+        <activity android:name=".member4_cooking_saved.FavoritesActivity" />
+        <activity android:name=".member4_cooking_saved.ViewingHistoryActivity" />
+        <activity android:name=".member5_planner_profile.ArticlesActivity" />
+
+    </application>
+
+</manifest>

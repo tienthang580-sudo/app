@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ẩm Thực Dung Tiến</string>
+    <string name="app_slogan">Đặc sản Ba Vì · Từ tâm người đầu bếp</string>
+    <string name="restaurant_title">NHÀ HÀNG DUNG TIẾN</string>
+    <string name="restaurant_sub">Phục vụ ăn uống &amp; Ship đồ ăn Khu Villa Resort</string>
+    <string name="restaurant_address">Muồng Voi, Vân Hòa, Ba Vì, Hà Nội</string>
+    <string name="restaurant_hotline">0835.272.818</string>
+    <string name="restaurant_web">nhahangdungtienbavi.com</string>
+    <string name="restaurant_fanpage">Nhà Hàng Dung Tiến</string>
+</resources>

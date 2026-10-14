@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_brown">#5E2120</color>
+    <color name="brand_brown_dark">#3E1212</color>
+    <color name="brand_gold">#E5A93C</color>
+    <color name="brand_gold_light">#FFEDC5</color>
+    <color name="warm_background">#FAF7F1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="text_secondary">#666666</color>
+</resources>

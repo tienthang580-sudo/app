@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AmThucDungTien" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand_brown</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/brand_gold</item>
+        <item name="colorOnSecondary">@color/brand_brown</item>
+        <item name="android:colorBackground">@color/warm_background</item>
+        <item name="colorSurface">@color/white</item>
+    </style>
+</resources>
